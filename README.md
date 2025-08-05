@@ -11,7 +11,6 @@ Python | Flask, Django | Pytest | Docker | Git, Github Actions | HTML, CSS, Boot
 
 ### Selected Projects
  - **[Error Tracking Bot](https://github.com/nyanyapushkina/log-analysis-bot) | Python aiogram**
-
 Telegram bot that analyzes system logs and sends easy-to-read alerts for errors/warnings, reducing human oversight.
 → Implemented filters (errors, auth issues) and automated notifications.
 
