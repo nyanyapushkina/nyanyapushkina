@@ -1,5 +1,5 @@
-
-# 🪩 Junior Python Developer | Eager to build impactful products  |  Looking for projects to level up my skills
+# 👋 Hi, I'm Arina 
+### Junior Python Developer | Eager to build impactful products  |  Looking for projects to level up my skills
 
 ## Socials:
  - [email](mailto:khokhlova.arina.v@gmail.com)
